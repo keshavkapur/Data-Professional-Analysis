@@ -1,10 +1,7 @@
 # Data Professional Survey Analysis
 
 ## Overview
-This project analyzes survey responses from 630 data professionals to understand their career experiences, job satisfaction, salary trends, and industry preferences. The dataset provides insights into demographics, work-life balance, and factors influencing job decisions in the data field.
-
-## Dataset
-<a href="https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2FAlexTheAnalyst%2FPower-BI%2Frefs%2Fheads%2Fmain%2FPower%2520BI%2520-%2520Final%2520Project.xlsx&wdOrigin=BROWSELINK">
+This project analyzes survey responses from data professionals to understand their career experiences, job satisfaction, salary trends, and industry preferences. The dataset provides insights into demographics, work-life balance, and factors influencing job decisions in the data field.
 
 ## Key Performance Indicators (KPIs)
 
